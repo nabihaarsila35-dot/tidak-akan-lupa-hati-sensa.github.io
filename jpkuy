@@ -706,19 +706,20 @@ digitalData.page.pageInfo.pageName = pageName;
 
 
 
-    {
+     {
       "@type": "Organization",
       "@id": "https://desa-moyo.sumbawakab.go.id/",
       "name": "JPKUY99",
       "url": "https://desa-moyo.sumbawakab.go.id/",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://seopaimanis.sirv.com/anomali/logo.png"
+        "url": "https://s13.gifyu.com/images/bnPVa.png"
       },
       "sameAs": [
-        "https://www.facebook.com/groups/jpkuy99officialgroup/",
-        "https://wa.me/087891313670",
-        "https://t.me/CsJpkuy99",
+        "https://www.facebook.com/JPKUY99",
+        "https://www.twitter.com/JPKUY99",
+        "https://instagram.com/JPKUY99",
+        "https://line.me/ti/p/JPKUY99"
       ]
     },
 
@@ -734,7 +735,6 @@ digitalData.page.pageInfo.pageName = pageName;
       "breadcrumb": { "@id": "https://desa-moyo.sumbawakab.go.id/" },
       "inLanguage": "id-ID"
     },
-
 
 
     {
